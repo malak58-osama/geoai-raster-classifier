@@ -1,0 +1,6 @@
+streamlit
+numpy
+rasterio
+scikit-learn
+joblib
+matplotlib
